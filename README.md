@@ -47,6 +47,7 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Starting a new road](https://dev.to/officialdougb/starting-a-new-road-4jhl)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
