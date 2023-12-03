@@ -17,7 +17,7 @@
 - 💻 I’m a full stack developer in North Texas (DFW area) creating unique custom apps and contributing to open source projects
 - 🌱 I’m currently learning the Remix framework
 - 🎮 For fun I play video games, card/board games, and read about latest development technologies
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/dougbtx/)
+- 📫 How to reach me: [Email](mailto:dbrewertx@gmail.com)
   
 ---
 
